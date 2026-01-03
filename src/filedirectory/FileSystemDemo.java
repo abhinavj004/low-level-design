@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Map;
 
 public class FileSystemDemo {
-    public static void main(String[] args) {
+    public static void run() {
         FileSystem fs = new FileSystem();
 
         fs.mkdir("/a/b/c");

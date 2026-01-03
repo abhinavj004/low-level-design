@@ -6,6 +6,7 @@ import carrentalsystem.CarRentalSystemDemo;
 import coffeevendingmachine.CoffeeVendingMachineDemo;
 //import courseregistrationsystem.CourseRegistrationSystemDemo;
 import digitalwalletservice.DigitalWalletDemo;
+import filedirectory.FileSystemDemo;
 import fooddeliveryservice.FoodDeliveryServiceDemo;
 //import librarymanagementsystem.LibraryManagementSystemDemo;
 import loggingframework.LoggingFrameworkDemo;
@@ -60,5 +61,6 @@ public class LLDRunner {
 //        TrafficSignalSystemDemo.run();
 //        VendingMachineDemo.run();
 //        VotingSystemDemo.run();
+        FileSystemDemo.run();
     }
 }
